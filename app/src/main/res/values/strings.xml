@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Day18 View Binding</string>
+    <string name="login">Login</string>
+    <string name="please_accept_the_t_amp_c"><![CDATA[Please accept the T&C]]></string>
+</resources>
